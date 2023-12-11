@@ -30,6 +30,9 @@ const Header = () => {
                             <li className='p-2 hover:bg-violet-700  transition-colors duration-300'>
                                 <Link href={'/ejercicio04'}>Ejercicio 04</Link>
                             </li>
+                            <li className='p-2 hover:bg-violet-700  transition-colors duration-300'>
+                                <Link href={'/ejercicio05'}>Ejercicio 05</Link>
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -41,3 +44,4 @@ const Header = () => {
 };
 
 export default Header;
+
